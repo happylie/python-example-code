@@ -16,3 +16,7 @@
 **4. [Python] 오늘 날짜의 요일 확인하기**
 + Directory : today_week 
 + Link : https://happylie.tistory.com/118
+
+**5. [Python] 파이썬 출력 문자 색상 변경하기**
++ Directory : text_color
++ Link : https://happylie.tistory.com/119
