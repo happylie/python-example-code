@@ -12,3 +12,7 @@
 **3. [Python] 파이썬 문자열 특수문자, 공백 제거 하기(strip, rstrip, lstrip)**
 + Directory : strip 
 + Link : https://happylie.tistory.com/116
+
+**4. [Python] 오늘 날짜의 요일 확인하기**
++ Directory : today_week 
++ Link : https://happylie.tistory.com/118
