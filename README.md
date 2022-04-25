@@ -20,3 +20,7 @@
 **5. [Python] 파이썬 출력 문자 색상 변경하기**
 + Directory : text_color
 + Link : https://happylie.tistory.com/119
+
+**6. [Python] 파이썬 예약어 확인하기**
++ Directory : reserved_keyword
++ Link : https://happylie.tistory.com/136
