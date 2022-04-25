@@ -23,4 +23,4 @@
 
 **6. [Python] 파이썬 예약어 확인하기**
 + Directory : reserved_keyword
-+ Link : https://happylie.tistory.com/136
++ Link : https://happylie.tistory.com/135
