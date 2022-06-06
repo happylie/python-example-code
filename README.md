@@ -24,3 +24,7 @@
 **6. [Python] 파이썬 예약어 확인하기**
 + Directory : reserved_keyword
 + Link : https://happylie.tistory.com/135
+
+**7. [Python] 파이썬 gtts 모듈을 이용한 텍스트 음성 변환 방법**
++ Directory : gtts
++ Link : https://happylie.tistory.com/137
