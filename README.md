@@ -1,5 +1,7 @@
 # Python Example Code
-#### Site : https://happylie.tistory.com
+<img src="https://img.shields.io/badge/Python->=3.8.x-blue?logo=python&logoColor=white" />
+
+#### + Site : https://happylie.tistory.com
 ***
 **1. [Python] 파이썬 SQLite 모듈 사용 방법**
 + Directory : sqlite
@@ -27,4 +29,10 @@
 
 **7. [Python] 파이썬 gtts 모듈을 이용한 텍스트 음성 변환 방법**
 + Directory : gtts
++ requirements : gtts
 + Link : https://happylie.tistory.com/137
+
+**8. [Python] 파이썬 icnsutil 모듈을 이용한 MacOS 아이콘 만들기**
++ Directory : icnsutil
++ requirements : icnsutil
++ Link : https://happylie.tistory.com/158
