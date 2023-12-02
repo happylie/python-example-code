@@ -2,3 +2,4 @@ gTTS
 icnsutil
 pyhtml2pdf
 PyPDF2
+captcha
