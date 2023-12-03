@@ -7,6 +7,4 @@ audio = AudioCaptcha()
 
 captcha_text = '1234'
 
-audio.write('1234', 'sample/1234.wav')
-
-data = audio.generate('1234')
+audio.write(captcha_text, 'sample/1234.wav')
