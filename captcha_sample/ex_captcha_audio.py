@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import io
-import base64
 from captcha.audio import AudioCaptcha
 
 audio = AudioCaptcha()
