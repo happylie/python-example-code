@@ -43,9 +43,15 @@
 + Link : https://happylie.tistory.com/176
 
 **10. [Python] 파이썬 UnixTime / DateTime 형식 변경 하기**
++ Directory : unixtime
 + requirements : datetime
 + Link : https://happylie.tistory.com/177
 
 **11. [Python] 파이썬 Captcha 만들기**
++ Directory : captcha_sample
 + requirements : captcha
 + Link : https://happylie.tistory.com/191
+
+**12. [Python] 파이썬 Random Password 생성 Tool**
++ Directory : random_passwd
++ Link : https://happylie.tistory.com/192
